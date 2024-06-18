@@ -1,9 +1,8 @@
 # Competition Task Rest History
 
-Имеется таблица остатков rest_history.
-
- :one: id_dog - id договора \
- :two: dt - дата изменения остатка \
+Имеется таблица остатков rest_history. \
+:one: id_dog - id договора \
+:two: dt - дата изменения остатка \
  :three: balance - остаток на конце дня dt (0 или положительный) \
 
 Условия:
